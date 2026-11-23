@@ -5,6 +5,8 @@ Future Interns – Data Science & Analytics Internship | Task
 Project Overview
 This project analyzes business sales data to understand revenue performance over time, identify products generating the most revenue, compare sales across product categories, and evaluate regional performance. A Power BI dashboard presents key performance indicators (KPIs) and visual comparisons in an easy-to-understand format.
 
+![image alt] (https://github.com/gbvijayakumar-svg/FUTURE_DS_01/blob/90956f6baea8be8028bf933bff4f96526f21a14b/Screenshot%202026-11-23%20183742.png)
+
 Internship: Future Interns – Data Science & Analytics Internship
 Task: Task 1 – Business Sales Data Analysis
 Primary Tool: Microsoft Power BI Desktop
