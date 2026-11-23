@@ -8,6 +8,7 @@ This project analyzes business sales data to understand revenue performance over
 ![image alt] (https://github.com/gbvijayakumar-svg/FUTURE_DS_01/blob/90956f6baea8be8028bf933bff4f96526f21a14b/Screenshot%202026-11-23%20183742.png)
 
 Internship: Future Interns – Data Science & Analytics Internship
+
 Task: Task 1 – Business Sales Data Analysis
 Primary Tool: Microsoft Power BI Desktop
 Supporting Features: Power Query and DAX
